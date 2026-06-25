@@ -1,0 +1,2 @@
+# -LuxeRetail-Group-Business-Performance-Analysis-Dashboard
+An enterprise-grade Power BI Business Intelligence solution built for a ₹120 Crore Indian premium retail conglomerate LuxeRetail Group-operating 165 stores across 5 regions, 8 premium brands and 4 sales channels Retail+Amazon+Flipkart+Website. The dashboard is designed to demonstrate advanced Financial Analysis, Data Modelling and Power BI skills.
