@@ -7,7 +7,7 @@ PageTitleKey Visuals1Business Performance AnalysisRevenue vs Budget (Brand wise)
 
 CategoryKPIsRevenueTotal Revenue · Gross Sales · Net Sales · Gross Profit · GM% Budget vs Actual Revenue · GP Variance · % Growth YoY%
 ## Dashboard
-https://github.com/vikashsinghba/-LuxeRetail-Group-Business-Performance-Analysis-Dashboard/blob/main/LUXE%20Retail%20Business%20Performance%20Dashboard%201.png 
+<https://github.com/vikashsinghba/-LuxeRetail-Group-Business-Performance-Analysis-Dashboard/blob/main/LUXE%20Retail%20Business%20Performance%20Dashboard%201.png/>
 
 ## Brand Portfolio
 
