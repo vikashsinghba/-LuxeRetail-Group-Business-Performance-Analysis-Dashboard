@@ -11,10 +11,6 @@ CategoryKPIsRevenueTotal Revenue · Gross Sales · Net Sales · Gross Profit · 
 
 <img width="679" height="376" alt="Screenshot LuxeRetail Power BI Dashboard" src=https://github.com/vikashsinghba/-LuxeRetail-Group-Business-Performance-Analysis-Dashboard/blob/main/LUXE%20Retail%20Business%20Performance%20Dashboard%202.png/>
 
-## Brand Portfolio
-
-#BrandCategorySegmentGM%1LuxeVogueLuxury FashionUltra Premium52%2AriaThreadPremium ApparelPremium42%3StepEliteFootwearPremium38%4GlowCraftBeauty & CosmeticsPremium48%5TimeCraftWatchesUltra Premium55%6AuraAccAccessoriesLuxury45%7HavenHomeHome DécorPremium35%8LifeStyle+Lifestyle ProductsPremium40%
-
 ## Key Insights from Dashboard
 
 TimeCraft dominates revenue — Watches category leads at ₹3,239M with the highest YoY growth of 57.5%, driven by premium positioning and low discount rates.
