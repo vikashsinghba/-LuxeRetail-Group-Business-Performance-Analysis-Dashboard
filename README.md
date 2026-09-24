@@ -34,14 +34,10 @@ The dashboard was designed to give business leadership a single source of truth 
 <img width="679" height="376" alt="Screenshot LuxeRetail Power BI Dashboard" src=https://github.com/vikashsinghba/-LuxeRetail-Group-Business-Performance-Analysis-Dashboard/blob/main/LUXE%20Retail%20Business%20Performance%20Dashboard%202.png/>
 
 ## Key Insights from Dashboard
-
-Key Insights Available from the Dashboard
-
-Category-wise Performance — Watches (TimeCraft) leads all categories at ₹3,239M net sales (28.6% of total revenue) with the highest gross margin in the portfolio at 54.6% GM, reflecting its Ultra-Premium positioning.
-Regional Contribution — South (₹2,772M, 24.4%) and North (₹2,704M, 23.9%) together drive ~48% of total revenue (₹5,476M of ₹11,341M), followed by West (21.9%), East (17.6%), and Central (12.2%).
-Seasonality Patterns — October and November sales run 1.35× and 1.37× the monthly average respectively, confirming a festive-season demand spike in the Oct–Nov window.
-Growth Momentum — Total net sales grew 13.1% YoY (FY24-25) and 9.5% YoY (FY25-26), with individual categories ranging from 8.1% to 14.5% YoY, led by Luxury Fashion and Beauty & Cosmetics.
-Portfolio Mix Opportunities — Beauty & Cosmetics (₹1,006M) and Accessories (₹1,038M) are the 2 smallest categories by revenue but rank among the top margins (47.4% and 44.5% GM respectively) — strong candidates for mix-led investment.
-Budget vs Actual Variance — Actual net sales of ₹11,341M ran well ahead of the ₹4,736M full-period revenue budget, with actual Gross Profit (₹5,180M) more than 2.7× the budgeted GP (₹1,895M).
-Store & Channel Performance — All 165 stores carry all 8 categories; by channel, Retail Stores contribute 80.2% of revenue, with Amazon (7.9%), Company Website (6.3%), and Flipkart (5.6%) making up the remaining online mix.
-Profitability View — Overall blended Gross Margin is 45.7%; Watches (54.6%) and Luxury Fashion (51.6%) are the strongest-margin categories, while Home Décor (34.7%) and Footwear (37.6%) are the least profitable per rupee of sale.
+**Category Leadership:** Watches (TimeCraft) leads with ₹3,239M net sales (28.6% of revenue) and the portfolio's highest margin at 54.6% GM reflecting its Ultra-Premium positioning.
+**Regional Concentration:** South and North together drive 48% of total revenue (₹5,476M of ₹11,341M).
+**Strong Growth, Seasonal Peaks:** 
+- Net sales grew 13.1% YoY (FY24-25) and 9.5% YoY (FY25-26) led by Luxury Fashion and Beauty & Cosmetics
+- October–November sales run ~1.35–1.37× the monthly average, confirming a festive-season demand spike.
+**Budget Outperformance:** Actual net sales (₹11,341M) far exceeded the ₹4,736M budget with Gross Profit (₹5,180M) coming in at over 2.7× the budgeted figure.
+**Margin & Mix Opportunities:** Blended Gross Margin stands at 45.7%; Beauty & Cosmetics and Accessories are the smallest categories by revenue but rank among the highest margins (47.4% and 44.5% GM), making them strong candidates for mix-led investment while Home Décor and Footwear trail on profitability.
