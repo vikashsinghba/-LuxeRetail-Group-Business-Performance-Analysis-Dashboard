@@ -1,4 +1,4 @@
-## LuxeRetail-Group-Business-Performance-Analysis (Background & Purpose)
+## LuxeRetail-Group-Business-Performance-Analysis (Background & Purpose) - WIP
 This **dashboard is based on my professional experience at Apparel Group India Pvt Ltd**, where I developed a comparable enterprise Power BI reporting solution on actual business data for 150+ retail stores across **premium brands including ALDO, Victoria's Secret (VS), Bath & Body Works (BBW), Inglot, Rare & Basics** Etc.
 
 **Since the original dashboard is built on confidential, real business data that cannot be shared publicly**, this project recreates the same structure, logic, and analytical depth using sample, generative data created with Claude to **simulate a realistic ₹120 Crore Indian premium retail conglomerate — 165 stores, 5 regions, 8 brands, and 4 sales channels (Retail, Amazon, Flipkart and Own Website)**. The intent is to demonstrate the same level of financial analysis, data modelling and dashboarding capability in a portfolio-safe, non-confidential format.
